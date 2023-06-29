@@ -20,3 +20,9 @@ del CIC-IPN 2023
 > Clase 102 - Análisis de Datos
 > 
 > [Libreta C102](https://colab.research.google.com/drive/1VTDhJR32gIz-2N4bJBQw_nrNta3MWGwH?usp=sharing)
+
+---
+
+> Clase 103 - Visualización de Datos
+> 
+> [Libreta C103](https://colab.research.google.com/drive/1ilpxBAnQZ7iyyIx4X66KJylhIT8AYDuk?usp=sharing)
