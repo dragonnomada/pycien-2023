@@ -1,5 +1,22 @@
 # Prácticas del Curso de Python Científico
 
+## Introducción
+
+La siguiente serie de prácticas serán tomadas para la evaluación final del curso de **Programación Python con Aplicaciones en el Ámbito Científico** del *Centro de Investigación en Computación* del *Instituto Politécnico Nacional*.
+
+Se deberá realizar al menos **una práctica** y documentarla en el siguiente forma:
+
+* Deberá ser un documento PDF que contenga como portada los logotipos y nombre del instituto
+* Deberá incluir en la portada el mes y año actual
+* Deberá tener el nombre del profesor asignado
+* Deberá tener el nombre del alumno y opcionalmente su correo
+* Deberá contener una introducción al problema que hayan detectado
+* Deberá contener una justificación para resolver el problema (a modo de motivación y justificación)
+* Deberá contener los pasos que se resolvieron (en secuencia lógica de construcción de la solución)
+* Deberá contener capturas de pantalla de las partes más importantes del código (o todo)
+* Deberá contener capturas de pantalla mostrando los resultados y cumpliendo los objetivos
+* Deberá contener las conclusiones identificadas (como que se requiere más esfuerzo si no se completó o las partes más difíciles que se solucionaron y/o un resumen de lo que se hizo).
+
 ## P101. Escribir un reporte de texto con las métricas del Titanic
 
 Genera un reporte de texto con cabeceras decoradas a partir del conjunto de datos del titanic que contenga los siguientes estadísticos.
